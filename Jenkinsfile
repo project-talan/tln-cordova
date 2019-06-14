@@ -104,8 +104,10 @@ node {
   }
   //
   stage('Unit tests') {
+  /*
     sh './lint.sh'
     sh './test.sh'
+  */
   }
   //
   stage('SonarQube analysis') {

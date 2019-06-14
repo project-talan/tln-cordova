@@ -6,6 +6,7 @@
 * JDK
 * Android SDK
 * Cordva
+* Talan CLI
 
 ### Attach to the existing project
 

@@ -23,3 +23,7 @@ To develop standalone project, just clone repository or create fork using your a
 | Command | Script | Description |
 | ------- | ------ | ----------- |
 | tln prereq | prereq.sh | Prepare local dev box configuration scripts |
+
+## FAQ
+### net::ERR_CLEARTEXT_NOT_PERMITTED error
+https://stackoverflow.com/questions/54752716/why-am-i-seeing-neterr-cleartext-not-permitted-errors-after-upgrading-to-cordo

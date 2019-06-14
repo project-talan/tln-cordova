@@ -19,6 +19,9 @@ git subtree pull --prefix mobile/cordova-app tln-cordova master --squash
 ### Create new project
 * run ```tln prereq```, update .env file with your local dev env parameters
 * run ```tln create-app```, update config.xml and package.json with project's actual values
+* add platform ```cordova platform add android```
+* build and deploy projects ```tln build-angular:deploy-android```
+
 
 To develop standalone project, just clone repository or create fork using your account
 
